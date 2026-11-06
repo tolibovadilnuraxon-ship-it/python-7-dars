@@ -1,0 +1,6 @@
+1. Ismlarni faylga yozish
+Foydalanuvchidan 5 ta ism kiriting. Ularni ismlar.txt fayliga har birini yangi qatordan yozing.
+2. Fayldagi ma’lumotlarni o‘qish
+ismlar.txt faylidagi barcha ismlarni o‘qing va ekranga chiqaring.
+3. Yangi ma’lumot qo‘shish
+Foydalanuvchidan yangi ism so‘rang va uni ismlar.txt faylining oxiriga qo‘shing. Oldingi ma’lumotlar o‘chib ketmasligi kerak.
